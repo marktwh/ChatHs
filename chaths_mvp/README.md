@@ -25,7 +25,7 @@ CALL_FUNCTION
     Address("your package address")
     "ChatHs"
     "instantiate_with_bio"
-    "your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio";
+    "your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your bio your";
 CALL_METHOD
     Address("your account component address")
     "deposit_batch"
@@ -91,7 +91,7 @@ CALL_METHOD
     Address("your ChatHs account component address")
     "respond"
     NonFungibleLocalId("{your prompt NonFungibleLocalId in curly brackets}")
-    "your response your response your response your response your response your response your response your response your response ";
+    "your response your response your response your response your response your response your response your response your";
 CALL_METHOD
     Address("your account component address")
     "deposit_batch"
